@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 
-<dive align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 0;">
   <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="50" height="50" />
   <img src="/techStackIcons/html-5.svg" alt="HTML5" width="50" height="50" />
   <img src="/techStackIcons/javascript.svg" alt="JavaScript" width="50" height="50" />
@@ -23,7 +23,7 @@
   <img src="/techStackIcons/unreal-engine-svgrepo-com.svg" alt="Unreal Engine" width="50" height="50" />
   <img src="/techStackIcons/firebase.svg" alt="Firebase" width="50" height="50" />
   <img src="/techStackIcons/blender-svgrepo-com.svg" alt="Blender" width="50" height="50" />
-</dive>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -41,10 +41,10 @@
       <a href="https://github.com/Mithila001/HMS_2" target="_blank">
         Link
       </a>
-      <dive align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px">
+      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px">
         <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="35" height="35" />
         <img src="/techStackIcons/sqlLite.svg" alt="DotNET" width="35" height="35" />
-      </dive>
+      </div>
       <p>DotNET WPF Framwork, SQL Lite</p>
     </td>
     <td align="center">
@@ -52,10 +52,10 @@
       <a href="https://github.com/dananjaya2002/react-native-service-providing-app" target="_blank">
         Link
       </a>
-      <dive align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px">
+      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px">
         <img src="/techStackIcons/react.svg" alt="DotNET" width="35" height="35" />
         <img src="/techStackIcons/firebase.svg" alt="DotNET" width="35" height="35" />
-      </dive>
+      </div>
       <p>React Native, Firebase</p>
     </td>
   </tr>
