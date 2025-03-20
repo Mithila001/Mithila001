@@ -6,11 +6,10 @@
 
 ## 💻 Computer Science Undergraduate Student
 
-- 📝 Currently working on a Service Provider App
-- 💻 Learning React Native
-- 👯 Open for collaboration on exciting projects
-- 🎯 2025 Goals: Build an Industry-Level Program
-- ✌ Fun fact: I do 3D Modeling as a Hobby
+- 📝 Currently working on a Service Provider Mobile App
+- 💻 Learning React Native, Flutter, Unreal Engine and Arduino
+- 🎯 2025 Goals: Learn to build API, Complex algorithmes and LLM
+- ✌ Fun fact: I do 3D Modeling and Video Editing as a Hobby
 
 ## 🛠️ Tech Stack
 
