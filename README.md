@@ -6,10 +6,11 @@
 
 ## 💻 Computer Science Undergraduate Student
 
-- 📝 Currently working on a Service Provider Mobile App
-- 💻 Learning React Native, Flutter, Unreal Engine and Arduino
-- 🎯 2025 Goals: Learn to build API, Complex algorithmes and LLM
-- ✌ Fun fact: I do 3D Modeling and Video Editing as a Hobby
+- 📝 Currently working on a Service Provider App
+- 💻 Learning React Native
+- 👯 Open for collaboration on exciting projects
+- 🎯 2025 Goals: Build an Industry-Level Program
+- ✌ Fun fact: I do 3D Modeling as a Hobby
 
 ## 🛠️ Tech Stack
 
@@ -57,6 +58,17 @@
       </div>
       <p>React Native, Firebase</p>
     </td>
+    <td align="center">
+      <h3>Air Quality Display Website</h3>
+      <a href="https://github.com/Mithila001/Air_Quality_Monitoring_Website" target="_blank">
+        Link
+      </a>
+      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px">
+        <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="35" height="35" />
+        <img src="/techStackIcons/sqlServer.svg" alt="DotNET" width="35" height="35" />
+      </div>
+      <p>React Native, Firebase</p>
+    </td>
   </tr>
 </table>
 
@@ -78,5 +90,5 @@
 
 <!-- Custom SVG Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mithila001/mithila001/main/assets/footer.svg" width="100%" alt="Footer" />
+  <img src="background.svg" alt="Banner" style="width: 100%; height: 100px;"/>
 </p>
