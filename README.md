@@ -74,7 +74,7 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="linkedin.com/in/mithila-dissanyaka-aab93a274">
+  <a href="https://www.linkedin.com/in/mithila-dissanyaka-aab93a274/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mithiladissanayakaofficial@gmail.com">
@@ -83,11 +83,11 @@
   
 </p>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=mithila001&color=blue&style=for-the-badge)
-</p>
-
 <!-- Custom SVG Footer -->
 <p align="center">
   <img src="background.svg" alt="Banner" style="width: 100%; height: 100px;"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mithila001&color=blue&style=for-the-badge" alt="GitHub Profile Views" />
 </p>
