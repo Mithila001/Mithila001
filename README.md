@@ -6,11 +6,10 @@
 
 ## 💻 Computer Science Undergraduate Student
 
-- 📝 Currently working on a Service Provider App
-- 💻 Learning React Native
+- 💻 Learning Spring Boot
 - 👯 Open for collaboration on exciting projects
-- 🎯 2025 Goals: Build an Industry-Level Program
-- ✌ Fun fact: I do 3D Modeling as a Hobby
+- 🎯 2025 Goals: Build a solid foundation in AI and machine learning
+- ✌ Fun fact: I design 3D models and create animations as a hobby.
 
 ## 🛠️ Tech Stack
 
