@@ -74,17 +74,17 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="linkedin.com/in/mithila-dissanyaka-aab93a274">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mithiladissanayakaofficial@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/mithila001/count.svg" alt="Visitor Count" />
+  ![](https://komarev.com/ghpvc/?username=mithila001&color=blue&style=for-the-badge)
 </p>
 
 <!-- Custom SVG Footer -->
