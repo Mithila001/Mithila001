@@ -33,7 +33,7 @@
 
 ## 🎓 Academic Projects
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <h3>Hospital Management System</h3>
@@ -57,6 +57,8 @@
       </div>
       <p>React Native, Firebase</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <h3>Air Quality Display Website</h3>
       <a href="https://github.com/Mithila001/Air_Quality_Monitoring_Website" target="_blank">
@@ -68,6 +70,7 @@
       </div>
       <p>React Native, Firebase</p>
     </td>
+    <td align="center"></td>
   </tr>
 </table>
 
