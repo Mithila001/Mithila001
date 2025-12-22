@@ -38,6 +38,33 @@
   <table width="800" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; margin-bottom: 20px; border-collapse: separate; overflow: hidden;" cellpadding="20">
     <tr>
       <td colspan="2" align="left">
+        <h2 style="color: #58a6ff; margin-bottom: 10px;">🚌 Public Bus Transport Management System (Backend API)</h2>
+        <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
+         A RESTful Backend API service focused on managing buses, routes, and employees. Developed using Java Spring Boot and PostgreSQL, following MVC patterns.
+        </p>
+      </td>
+    </tr>
+    <tr style="background-color: #161b22;">
+      <td width="50%" align="left" style="border-top: 1px solid #30363d;">
+        <div style="display: flex; align-items: center; gap: 15px;">
+          <img src="/techStackIcons/springboot.svg" alt="Spring Boot" width="30" height="30" />
+          <img src="/techStackIcons/postgressSQL.svg" alt="PostgreSQL" width="30" height="30" />
+          <a href="https://github.com/Mithila001/PTMS-Backend" target="_blank" style="margin-left: 10px; text-decoration: none; color: #1f6feb; font-weight: bold;">
+            View Code &rarr;
+          </a>
+        </div>
+      </td>
+      <td width="50%" align="right" style="border-top: 1px solid #30363d;">
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">Spring Boot</code>
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">PostgreSQL</code>
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">MVC</code>
+      </td>
+    </tr>
+  </table>
+
+  <table width="800" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; margin-bottom: 20px; border-collapse: separate; overflow: hidden;" cellpadding="20">
+    <tr>
+      <td colspan="2" align="left">
         <h2 style="color: #58a6ff; margin-bottom: 10px;">🏥 Hospital Management System V2</h2>
         <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
           A Hospital Management System featuring Staff Management, Reception Management, OPD, and Ward Management. Developed using the .NET WPF Framework.
@@ -109,33 +136,6 @@
       <td width="50%" align="right" style="border-top: 1px solid #30363d;">
         <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">ASP.NET Core</code>
         <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">SQL Server</code>
-      </td>
-    </tr>
-  </table>
-
-  <table width="800" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; margin-bottom: 20px; border-collapse: separate; overflow: hidden;" cellpadding="20">
-    <tr>
-      <td colspan="2" align="left">
-        <h2 style="color: #58a6ff; margin-bottom: 10px;">🚌 Public Bus Transport Management System (Backend API)</h2>
-        <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
-         A RESTful Backend API service focused on managing buses, routes, and employees. Developed using Java Spring Boot and PostgreSQL, following MVC patterns.
-        </p>
-      </td>
-    </tr>
-    <tr style="background-color: #161b22;">
-      <td width="50%" align="left" style="border-top: 1px solid #30363d;">
-        <div style="display: flex; align-items: center; gap: 15px;">
-          <img src="/techStackIcons/springboot.svg" alt="Spring Boot" width="30" height="30" />
-          <img src="/techStackIcons/postgressSQL.svg" alt="PostgreSQL" width="30" height="30" />
-          <a href="https://github.com/Mithila001/PTMS-Backend" target="_blank" style="margin-left: 10px; text-decoration: none; color: #1f6feb; font-weight: bold;">
-            View Code &rarr;
-          </a>
-        </div>
-      </td>
-      <td width="50%" align="right" style="border-top: 1px solid #30363d;">
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">Spring Boot</code>
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">PostgreSQL</code>
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">MVC</code>
       </td>
     </tr>
   </table>
