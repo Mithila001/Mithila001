@@ -33,46 +33,48 @@
 
 ## 🎓 Academic Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <h3>Hospital Management System</h3>
-      <a href="https://github.com/Mithila001/HMS_2" target="_blank">
-        Link
-      </a>
-      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px">
-        <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="35" height="35" />
-        <img src="/techStackIcons/sqlLite.svg" alt="DotNET" width="35" height="35" />
-      </div>
-      <p>DotNET WPF Framwork, SQL Lite</p>
-    </td>
-    <td align="center">
-      <h3>Service Providing App</h3>
-      <a href="https://github.com/dananjaya2002/react-native-service-providing-app" target="_blank">
-        Link
-      </a>
-      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px">
-        <img src="/techStackIcons/react.svg" alt="DotNET" width="35" height="35" />
-        <img src="/techStackIcons/firebase.svg" alt="DotNET" width="35" height="35" />
-      </div>
-      <p>React Native, Firebase</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>Air Quality Display Website</h3>
-      <a href="https://github.com/Mithila001/Air_Quality_Monitoring_Website" target="_blank">
-        Link
-      </a>
-      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px">
-        <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="35" height="35" />
-        <img src="/techStackIcons/sqlServer.svg" alt="DotNET" width="35" height="35" />
-      </div>
-      <p>React Native, Firebase</p>
-    </td>
-    <td align="center"></td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="10">
+    <tr>
+      <td width="400" align="left" valign="top" style="border: 1px solid #30363d; border-radius: 10px; background-color: #1a1b26; padding: 20px;">
+        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+          <h3 style="color: #7aa2f7; margin: 0;">🏥 Hospital Management</h3>
+        </div>
+        <p style="color: #9aa5ce; font-size: 14px; min-height: 40px;">A comprehensive system for managing medical records and hospital workflows.</p>
+        <div style="margin: 15px 0;">
+          <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="30" height="30" />
+          <img src="/techStackIcons/sqlLite.svg" alt="SQLite" width="30" height="30" style="margin-left: 10px;" />
+        </div>
+        <a href="https://github.com/Mithila001/HMS_2" target="_blank" style="text-decoration: none; color: #79c0ff; font-weight: bold; font-size: 14px;">View Repository →</a>
+      </td>
+      <td width="400" align="left" valign="top" style="border: 1px solid #30363d; border-radius: 10px; background-color: #1a1b26; padding: 20px;">
+        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+          <h3 style="color: #7aa2f7; margin: 0;">📱 Service Providing App</h3>
+        </div>
+        <p style="color: #9aa5ce; font-size: 14px; min-height: 40px;">Mobile application built for connecting service providers with local clients.</p>
+        <div style="margin: 15px 0;">
+          <img src="/techStackIcons/react.svg" alt="React" width="30" height="30" />
+          <img src="/techStackIcons/firebase.svg" alt="Firebase" width="30" height="30" style="margin-left: 10px;" />
+        </div>
+        <a href="https://github.com/dananjaya2002/react-native-service-providing-app" target="_blank" style="text-decoration: none; color: #79c0ff; font-weight: bold; font-size: 14px;">View Repository →</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="400" align="left" valign="top" style="border: 1px solid #30363d; border-radius: 10px; background-color: #1a1b26; padding: 20px;">
+        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+          <h3 style="color: #7aa2f7; margin: 0;">🌬️ Air Quality Website</h3>
+        </div>
+        <p style="color: #9aa5ce; font-size: 14px; min-height: 40px;">Real-time monitoring and visualization of air quality metrics and data.</p>
+        <div style="margin: 15px 0;">
+          <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="30" height="30" />
+          <img src="/techStackIcons/sqlServer.svg" alt="SQL Server" width="30" height="30" style="margin-left: 10px;" />
+        </div>
+        <a href="https://github.com/Mithila001/Air_Quality_Monitoring_Website" target="_blank" style="text-decoration: none; color: #79c0ff; font-weight: bold; font-size: 14px;">View Repository →</a>
+      </td>
+      <td width="400"></td>
+    </tr>
+  </table>
+</div>
 
 ## 📫 Let's Connect
 
