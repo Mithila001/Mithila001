@@ -118,7 +118,7 @@
       <td colspan="2" align="left">
         <h2 style="color: #58a6ff; margin-bottom: 10px;">🚌 Public Bus Transport Management System (Backend API)</h2>
         <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
-          A RESTful Backend API service focused on managing buses, routes, and employees. Developed using Java Spring Boot.
+         A RESTful Backend API service focused on managing buses, routes, and employees. Developed using Java Spring Boot and PostgreSQL, following MVC patterns.
         </p>
       </td>
     </tr>
