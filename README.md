@@ -33,7 +33,7 @@
 
 ## 🎓 Academic Projects
 
-<table align="center" width="100%">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center">
       <h3>Hospital Management System</h3>
