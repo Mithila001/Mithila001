@@ -31,49 +31,117 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithila001&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🎓 Academic Projects
+## 🎓 My Projects
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="10">
+
+  <table width="800" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; margin-bottom: 20px; border-collapse: separate; overflow: hidden;" cellpadding="20">
     <tr>
-      <td width="400" align="left" valign="top" style="border: 1px solid #30363d; border-radius: 10px; background-color: #1a1b26; padding: 20px;">
-        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-          <h3 style="color: #7aa2f7; margin: 0;">🏥 Hospital Management</h3>
-        </div>
-        <p style="color: #9aa5ce; font-size: 14px; min-height: 40px;">A comprehensive system for managing medical records and hospital workflows.</p>
-        <div style="margin: 15px 0;">
-          <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="30" height="30" />
-          <img src="/techStackIcons/sqlLite.svg" alt="SQLite" width="30" height="30" style="margin-left: 10px;" />
-        </div>
-        <a href="https://github.com/Mithila001/HMS_2" target="_blank" style="text-decoration: none; color: #79c0ff; font-weight: bold; font-size: 14px;">View Repository →</a>
-      </td>
-      <td width="400" align="left" valign="top" style="border: 1px solid #30363d; border-radius: 10px; background-color: #1a1b26; padding: 20px;">
-        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-          <h3 style="color: #7aa2f7; margin: 0;">📱 Service Providing App</h3>
-        </div>
-        <p style="color: #9aa5ce; font-size: 14px; min-height: 40px;">Mobile application built for connecting service providers with local clients.</p>
-        <div style="margin: 15px 0;">
-          <img src="/techStackIcons/react.svg" alt="React" width="30" height="30" />
-          <img src="/techStackIcons/firebase.svg" alt="Firebase" width="30" height="30" style="margin-left: 10px;" />
-        </div>
-        <a href="https://github.com/dananjaya2002/react-native-service-providing-app" target="_blank" style="text-decoration: none; color: #79c0ff; font-weight: bold; font-size: 14px;">View Repository →</a>
+      <td colspan="2" align="left">
+        <h2 style="color: #58a6ff; margin-bottom: 10px;">🏥 Hospital Management System V2</h2>
+        <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
+          A Hospital Management System featuring Staff Management, Reception Management, OPD, and Ward Management. Developed using the .NET WPF Framework.
+        </p>
       </td>
     </tr>
-    <tr>
-      <td width="400" align="left" valign="top" style="border: 1px solid #30363d; border-radius: 10px; background-color: #1a1b26; padding: 20px;">
-        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-          <h3 style="color: #7aa2f7; margin: 0;">🌬️ Air Quality Website</h3>
-        </div>
-        <p style="color: #9aa5ce; font-size: 14px; min-height: 40px;">Real-time monitoring and visualization of air quality metrics and data.</p>
-        <div style="margin: 15px 0;">
+    <tr style="background-color: #161b22;">
+      <td width="50%" align="left" style="border-top: 1px solid #30363d;">
+        <div style="display: flex; align-items: center; gap: 15px;">
           <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="30" height="30" />
-          <img src="/techStackIcons/sqlServer.svg" alt="SQL Server" width="30" height="30" style="margin-left: 10px;" />
+          <img src="/techStackIcons/sqlLite.svg" alt="SQLite" width="30" height="30" />
+          <a href="https://github.com/Mithila001/HMS_2" target="_blank" style="margin-left: 10px; text-decoration: none; color: #1f6feb; font-weight: bold;">
+            View Code &rarr;
+          </a>
         </div>
-        <a href="https://github.com/Mithila001/Air_Quality_Monitoring_Website" target="_blank" style="text-decoration: none; color: #79c0ff; font-weight: bold; font-size: 14px;">View Repository →</a>
       </td>
-      <td width="400"></td>
+      <td width="50%" align="right" style="border-top: 1px solid #30363d;">
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">WPF</code>
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">SQLite</code>
+      </td>
     </tr>
   </table>
+
+  <table width="800" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; margin-bottom: 20px; border-collapse: separate; overflow: hidden;" cellpadding="20">
+    <tr>
+      <td colspan="2" align="left">
+        <h2 style="color: #58a6ff; margin-bottom: 10px;">📱 Service Providing App</h2>
+        <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
+          An Android-focused, cross-platform compatible mobile application to connect customers with a wide range of local service providers. Features include service browsing, registration, and chat, built using React Native.
+        </p>
+      </td>
+    </tr>
+    <tr style="background-color: #161b22;">
+      <td width="50%" align="left" style="border-top: 1px solid #30363d;">
+        <div style="display: flex; align-items: center; gap: 15px;">
+          <img src="/techStackIcons/react.svg" alt="React" width="30" height="30" />
+          <img src="/techStackIcons/firebase.svg" alt="Firebase" width="30" height="30" />
+          <a href="https://github.com/dananjaya2002/react-native-service-providing-app" target="_blank" style="margin-left: 10px; text-decoration: none; color: #1f6feb; font-weight: bold;">
+            View Code &rarr;
+          </a>
+        </div>
+      </td>
+      <td width="50%" align="right" style="border-top: 1px solid #30363d;">
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">React Native</code>
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">Firebase</code>
+      </td>
+    </tr>
+  </table>
+
+  <table width="800" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; margin-bottom: 20px; border-collapse: separate; overflow: hidden;" cellpadding="20">
+    <tr>
+      <td colspan="2" align="left">
+        <h2 style="color: #58a6ff; margin-bottom: 10px;">🌬️ Air Quality Display Website</h2>
+        <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
+          A website that monitors air quality with real-time data updates, featuring an admin and sensor management dashboard. Developed using the ASP.NET framework.
+        </p>
+      </td>
+    </tr>
+    <tr style="background-color: #161b22;">
+      <td width="50%" align="left" style="border-top: 1px solid #30363d;">
+        <div style="display: flex; align-items: center; gap: 15px;">
+          <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="30" height="30" />
+          <img src="/techStackIcons/sqlServer.svg" alt="SQL Server" width="30" height="30" />
+          <a href="https://github.com/Mithila001/Air_Quality_Monitoring_Website" target="_blank" style="margin-left: 10px; text-decoration: none; color: #1f6feb; font-weight: bold;">
+            View Code &rarr;
+          </a>
+        </div>
+      </td>
+      <td width="50%" align="right" style="border-top: 1px solid #30363d;">
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">ASP.NET Core</code>
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">SQL Server</code>
+      </td>
+    </tr>
+  </table>
+
+  <table width="800" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; margin-bottom: 20px; border-collapse: separate; overflow: hidden;" cellpadding="20">
+    <tr>
+      <td colspan="2" align="left">
+        <h2 style="color: #58a6ff; margin-bottom: 10px;">🚌 Public Bus Transport Management System (Backend API)</h2>
+        <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
+          A RESTful Backend API service focused on managing buses, routes, and employees. Developed using Java Spring Boot.
+        </p>
+      </td>
+    </tr>
+    <tr style="background-color: #161b22;">
+      <td width="50%" align="left" style="border-top: 1px solid #30363d;">
+        <div style="display: flex; align-items: center; gap: 15px;">
+          <img src="/techStackIcons/springboot.svg" alt="Spring Boot" width="30" height="30" />
+          <img src="/techStackIcons/postgressSQL.svg" alt="PostgreSQL" width="30" height="30" />
+          <a href="https://github.com/Mithila001/PTMS-Backend" target="_blank" style="margin-left: 10px; text-decoration: none; color: #1f6feb; font-weight: bold;">
+            View Code &rarr;
+          </a>
+        </div>
+      </td>
+      <td width="50%" align="right" style="border-top: 1px solid #30363d;">
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">Spring Boot</code>
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">PostgreSQL</code>
+        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">MVC</code>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 </div>
 
 ## 📫 Let's Connect
