@@ -6,11 +6,6 @@
 
 ## 💻 Computer Science Undergraduate Student
 
-- 💻 Learning Spring Boot
-- 👯 Open for collaboration on exciting projects
-- 🎯 2025 Goals: Build a solid foundation in AI and machine learning
-- ✌ Fun fact: I design 3D models and create animations as a hobby.
-
 ## 🛠️ Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 0;">
