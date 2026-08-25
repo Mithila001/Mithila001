@@ -1,7 +1,7 @@
 # Hello, I'm Mithila 👋
 
 <p align="center">
-  <img src="background.svg" alt="Banner" width="100%">
+  <img src="background.svg" alt="Banner" width="100%" height="75">
 </p>
 
 ## 💻 Computer Science Graduate
@@ -102,7 +102,7 @@ Web application for displaying air-quality information with real-time data updat
 </p>
 
 <p align="center">
-  <img src="background.svg" alt="Banner" width="100%">
+  <img src="background.svg" alt="Banner" width="100%" height="75">
 </p>
 
 <p align="center">
