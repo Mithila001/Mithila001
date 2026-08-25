@@ -1,161 +1,110 @@
-# Hello, I'm Mithila 😃🖐
+# Hello, I'm Mithila 👋
 
 <p align="center">
-  <img src="background.svg" alt="Banner" style="width: 100%; height: 100px;">
+  <img src="background.svg" alt="Banner" width="100%">
 </p>
 
-## 💻 Computer Science Undergraduate Student
+## 💻 Computer Science Graduate
 
-## 🛠️ Tech Stack
+Software developer interested in backend development, APIs, full-stack systems, and solving practical problems through software.
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 0;">
-  <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="50" height="50" />
-  <img src="/techStackIcons/html-5.svg" alt="HTML5" width="50" height="50" />
-  <img src="/techStackIcons/javascript.svg" alt="JavaScript" width="50" height="50" />
-  <img src="/techStackIcons/react.svg" alt="React" width="50" height="50" />
-  <img src="/techStackIcons/typescript-icon.svg" alt="TypeScript" width="50" height="50" />
-  <img src="/techStackIcons/unreal-engine-svgrepo-com.svg" alt="Unreal Engine" width="50" height="50" />
-  <img src="/techStackIcons/firebase.svg" alt="Firebase" width="50" height="50" />
-  <img src="/techStackIcons/blender-svgrepo-com.svg" alt="Blender" width="50" height="50" />
-</div>
+Most of my recent work focuses on **backend systems, REST APIs, optimization-based applications, and full-stack development**.
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mithila001&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithila001&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🚀 Projects
 
-## 🎓 My Projects
+### 🏠 Residential Floor Plan Generator
 
-<div align="center">
+A constraint-driven system for generating residential floor plans based on land dimensions, room requirements, spatial relationships, and configurable planning constraints.
 
-  <table width="800" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; margin-bottom: 20px; border-collapse: separate; overflow: hidden;" cellpadding="20">
-    <tr>
-      <td colspan="2" align="left">
-        <h2 style="color: #58a6ff; margin-bottom: 10px;">🚌 Public Bus Transport Management System (Backend API)</h2>
-        <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
-         A RESTful Backend API service focused on managing buses, routes, and employees. Developed using Java Spring Boot and PostgreSQL, following MVC patterns.
-        </p>
-      </td>
-    </tr>
-    <tr style="background-color: #161b22;">
-      <td width="50%" align="left" style="border-top: 1px solid #30363d;">
-        <div style="display: flex; align-items: center; gap: 15px;">
-          <img src="/techStackIcons/springboot.svg" alt="Spring Boot" width="30" height="30" />
-          <img src="/techStackIcons/postgressSQL.svg" alt="PostgreSQL" width="30" height="30" />
-          <a href="https://github.com/Mithila001/PTMS-Backend" target="_blank" style="margin-left: 10px; text-decoration: none; color: #1f6feb; font-weight: bold;">
-            View Code &rarr;
-          </a>
-        </div>
-      </td>
-      <td width="50%" align="right" style="border-top: 1px solid #30363d;">
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">Spring Boot</code>
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">PostgreSQL</code>
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">MVC</code>
-      </td>
-    </tr>
-  </table>
+Instead of using generative AI to create layouts, the system uses **constraint solving, optimization, candidate exploration, and scoring** to generate and evaluate possible floor plans.
 
-  <table width="800" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; margin-bottom: 20px; border-collapse: separate; overflow: hidden;" cellpadding="20">
-    <tr>
-      <td colspan="2" align="left">
-        <h2 style="color: #58a6ff; margin-bottom: 10px;">🏥 Hospital Management System V2</h2>
-        <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
-          A Hospital Management System featuring Staff Management, Reception Management, OPD, and Ward Management. Developed using the .NET WPF Framework.
-        </p>
-      </td>
-    </tr>
-    <tr style="background-color: #161b22;">
-      <td width="50%" align="left" style="border-top: 1px solid #30363d;">
-        <div style="display: flex; align-items: center; gap: 15px;">
-          <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="30" height="30" />
-          <img src="/techStackIcons/sqlLite.svg" alt="SQLite" width="30" height="30" />
-          <a href="https://github.com/Mithila001/HMS_2" target="_blank" style="margin-left: 10px; text-decoration: none; color: #1f6feb; font-weight: bold;">
-            View Code &rarr;
-          </a>
-        </div>
-      </td>
-      <td width="50%" align="right" style="border-top: 1px solid #30363d;">
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">WPF</code>
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">SQLite</code>
-      </td>
-    </tr>
-  </table>
+#### ⚙️ FPG Server
 
-  <table width="800" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; margin-bottom: 20px; border-collapse: separate; overflow: hidden;" cellpadding="20">
-    <tr>
-      <td colspan="2" align="left">
-        <h2 style="color: #58a6ff; margin-bottom: 10px;">📱 Service Providing App</h2>
-        <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
-          An Android-focused, cross-platform compatible mobile application to connect customers with a wide range of local service providers. Features include service browsing, registration, and chat, built using React Native.
-        </p>
-      </td>
-    </tr>
-    <tr style="background-color: #161b22;">
-      <td width="50%" align="left" style="border-top: 1px solid #30363d;">
-        <div style="display: flex; align-items: center; gap: 15px;">
-          <img src="/techStackIcons/react.svg" alt="React" width="30" height="30" />
-          <img src="/techStackIcons/firebase.svg" alt="Firebase" width="30" height="30" />
-          <a href="https://github.com/dananjaya2002/react-native-service-providing-app" target="_blank" style="margin-left: 10px; text-decoration: none; color: #1f6feb; font-weight: bold;">
-            View Code &rarr;
-          </a>
-        </div>
-      </td>
-      <td width="50%" align="right" style="border-top: 1px solid #30363d;">
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">React Native</code>
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">Firebase</code>
-      </td>
-    </tr>
-  </table>
+Backend API and experiment server responsible for connecting the client with the floor plan generation engine.
 
-  <table width="800" style="border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; margin-bottom: 20px; border-collapse: separate; overflow: hidden;" cellpadding="20">
-    <tr>
-      <td colspan="2" align="left">
-        <h2 style="color: #58a6ff; margin-bottom: 10px;">🌬️ Air Quality Display Website</h2>
-        <p style="color: #8b949e; font-size: 15px; line-height: 1.5;">
-          A website that monitors air quality with real-time data updates, featuring an admin and sensor management dashboard. Developed using the ASP.NET framework.
-        </p>
-      </td>
-    </tr>
-    <tr style="background-color: #161b22;">
-      <td width="50%" align="left" style="border-top: 1px solid #30363d;">
-        <div style="display: flex; align-items: center; gap: 15px;">
-          <img src="/techStackIcons/dotnet.svg" alt="DotNET" width="30" height="30" />
-          <img src="/techStackIcons/sqlServer.svg" alt="SQL Server" width="30" height="30" />
-          <a href="https://github.com/Mithila001/Air_Quality_Monitoring_Website" target="_blank" style="margin-left: 10px; text-decoration: none; color: #1f6feb; font-weight: bold;">
-            View Code &rarr;
-          </a>
-        </div>
-      </td>
-      <td width="50%" align="right" style="border-top: 1px solid #30363d;">
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">ASP.NET Core</code>
-        <code style="color: #79c0ff; background: #0d1117; padding: 4px 8px; border-radius: 5px;">SQL Server</code>
-      </td>
-    </tr>
-  </table>
+`Python` `FastAPI` `PostgreSQL` `Docker`
 
-</div>
+🔗 [View Server Repository](https://github.com/Mithila001/fpg-server)
 
-</div>
+#### 🎨 FPG Client
+
+Interactive web application for configuring generation requirements, running floor plan experiments, monitoring progress, and visualizing generated layouts.
+
+`React` `TypeScript` `Tailwind CSS` `REST APIs`
+
+🔗 [View Client Repository](https://github.com/Mithila001/fpg-client)
+
+#### 🧠 FPG Core
+
+Reusable Python package containing the main floor plan generation pipeline, including candidate exploration, circulation generation, constraint-based room placement, scoring, post-processing, and opening placement.
+
+`Python` `OR-Tools CP-SAT` `Optuna` `Shapely`
+
+🔗 [View Core Repository](https://github.com/Mithila001/fpg-core)
+
+---
+
+### 🚌 Public Bus Transport Management System
+
+RESTful backend API for managing buses, routes, employees, and other public transport operations.
+
+Built with a structured Spring Boot backend using controllers, services, repositories, validation, and database integration.
+
+`Java` `Spring Boot` `PostgreSQL` `REST API`
+
+🔗 [View Repository](https://github.com/Mithila001/PTMS-Backend)
+
+---
+
+### 🏥 Hospital Management System V2
+
+Desktop-based hospital management application covering areas such as staff management, reception, OPD, and ward management.
+
+`C#` `.NET WPF` `SQLite`
+
+🔗 [View Repository](https://github.com/Mithila001/HMS_2)
+
+---
+
+### 📱 Service Providing App
+
+Cross-platform mobile application designed to connect customers with local service providers.
+
+Includes service browsing, user registration, provider discovery, and chat functionality.
+
+`React Native` `Firebase`
+
+🔗 [View Repository](https://github.com/dananjaya2002/react-native-service-providing-app)
+
+---
+
+### 🌬️ Air Quality Monitoring Website
+
+Web application for displaying air-quality information with real-time data updates and administrative functionality for managing sensors.
+
+`ASP.NET Core` `C#` `SQL Server`
+
+🔗 [View Repository](https://github.com/Mithila001/Air_Quality_Monitoring_Website)
+
+---
 
 ## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mithila-dissanyaka-aab93a274/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mithiladissanayakaofficial@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
-  
-</p>
-
-<!-- Custom SVG Footer -->
-<p align="center">
-  <img src="background.svg" alt="Banner" style="width: 100%; height: 100px;"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mithila001&color=blue&style=for-the-badge" alt="GitHub Profile Views" />
+  <img src="background.svg" alt="Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mithila001&color=blue&style=for-the-badge" alt="GitHub Profile Views">
 </p>
