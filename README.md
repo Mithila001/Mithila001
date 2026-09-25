@@ -8,8 +8,6 @@
 
 Software developer interested in backend development, APIs, full-stack systems, and solving practical problems through software.
 
-Most of my recent work focuses on **backend systems, REST APIs, optimization-based applications, and full-stack development**.
-
 ---
 
 ## 🚀 Projects
